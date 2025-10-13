@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm Charles Christolini (binarypie)
 
-<!--
-**binarypie/binarypie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a seasoned engineering leader with a passion for building impactful technology solutions.
 
-Here are some ideas to get you started:
+## 🔭 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 I'm the **Founder** of [Ibex_io](https://ibex.io/).
+- 🚀 I have a proven track record of leading engineering teams and driving technical strategy at companies like **Amazon Web Services (AWS)**, **Electronic Arts (EA)**, and **CBS Interactive**.
+- 💡 I've co-founded three companies: **Ibex.io** (in progress), Transpond (acquired by Webtrends), and **Sapho** (acquired by Citrix).
+- 👨‍💻 I'm passionate about Infrastructure as Code, Release Excellence, and building scalable, resilient, distributed systems.
+
+## 🏆 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binarypie&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binarypie&layout=compact&theme=radical)
+
+## 📫 How to reach me
+
+- LinkedIn: [https://www.linkedin.com/in/binarypie/](https://www.linkedin.com/in/binarypie/)
+- GitHub: [https://github.com/binarypie](https://github.com/binarypie)
