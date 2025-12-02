@@ -1,4 +1,4 @@
-# Hi there 🤖, I'm Charles Christolini (binarypie)
+# HI'm Charles Christolini (binarypie)
 
 I'm a seasoned engineering leader with a passion for building impactful technology solutions.
 
@@ -8,10 +8,6 @@ I'm a seasoned engineering leader with a passion for building impactful technolo
 - 🛰️ I have a proven track record of leading engineering teams and driving technical strategy at companies like **Amazon Web Services (AWS)**, **Electronic Arts (EA)**, and **CBS Interactive**.
 - 🧠 I've co-founded three companies: **Ibex.io** (in progress), **Transpond** (acquired by Webtrends), and **Sapho** (acquired by Citrix).
 - 🧑‍💻 I'm passionate about operational excellence, and building scalable, resilient, distributed systems.
-
-## 🏅 My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binarypie&show_icons=true&theme=tokyonight&hide_title=true)
 
 ## 📨 How to reach me
 
