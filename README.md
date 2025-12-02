@@ -1,4 +1,4 @@
-# HI'm Charles Christolini (binarypie)
+# Hi! I'm Charles Christolini (binarypie)
 
 I'm a seasoned engineering leader with a passion for building impactful technology solutions.
 
