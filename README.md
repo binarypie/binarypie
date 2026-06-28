@@ -12,5 +12,6 @@ I'm a seasoned engineering leader with a passion for building impactful technolo
 ## 📨 How to reach me
 
 - LinkedIn: [https://www.linkedin.com/in/binarypie/](https://www.linkedin.com/in/binarypie/)
-- GitHub: [https://github.com/binarypie](https://github.com/binarypie)
-- GitHub: [https://github.com/binarypie-dev](https://github.com/binarypie-dev)
+- GitHub:
+  - [https://github.com/binarypie](https://github.com/binarypie)
+  - [https://github.com/binarypie-dev](https://github.com/binarypie-dev)
