@@ -5,7 +5,7 @@ I'm a seasoned engineering leader with a passion for building impactful technolo
 ## About Me
 
 - I'm the **Founder** of [Ibex.io](https://ibex.io/).
-- I have a proven track record of leading engineering teams and driving technical strategy at companies like **Amazon Web Services (AWS)**, **Electronic Arts (EA)**, and **CBS Interactive**.
+- I have a proven track record of leading engineering teams and driving technical strategy at companies like **Temporal**, **Amazon Web Services (AWS)**, **Electronic Arts (EA)**, and **CBS Interactive**.
 - I've co-founded three companies: **Ibex.io** (in progress), **Transpond** (acquired by Webtrends), and **Sapho** (acquired by Citrix).
 - I'm passionate about operational excellence, and building scalable, resilient, distributed systems.
 
